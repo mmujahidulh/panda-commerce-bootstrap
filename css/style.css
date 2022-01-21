@@ -1,0 +1,19 @@
+.panda-bg-info{
+    background-color: #FCEAE8;
+}
+
+.cat-bg-warning{
+    background-color: #FFA500;
+}
+.cat-bg-success{
+    background-color: #DA70D6;
+}
+.cat-bg-primary{
+    background-color: #0000FF;
+}
+.btn-bg-color{
+    background-color: #FF2F81;
+}
+.categories img{
+    width: 100px;
+}
